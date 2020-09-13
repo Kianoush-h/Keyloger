@@ -1,6 +1,13 @@
-# Keyloger
+# Keylogger
  
-I created a simple keyloger that saves every 10 keyboard inputs into a txt file.
+I created a simple keylogger that saves every 10 keyboard inputs into a text file.
+
+The code starts capturing any keyboard inputs, and if the user presses "ESC," the code stops. 
+
+
+![keylogger](./etcs/example.gif)
+
+
 
 
 ### What is a keylogger used for?
@@ -50,15 +57,9 @@ $ python3 Keyloger.py
 
 Then you will see the screen as below :
 
-![YouTubeDownloader](./etcs/YouTubeDownloader.JPG)
+![keylogger](./etcs/example.gif)
 
 
-
-You need to copy and paste the URL, and in a few seconds, the app downloads the video in your specified folder.
-
-
-![demo1](./etcs/demo1.JPG)
-![demo2](./etcs/demo2.JPG)
 
 
 
