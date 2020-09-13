@@ -5,7 +5,7 @@ I created a simple keylogger that saves every 10 keyboard inputs into a text fil
 The code starts capturing any keyboard inputs, and if the user presses "ESC," the code stops. 
 
 
-![keylogger](./etcs/example.gif)
+![keylogger](./etc/example.gif)
 
 
 
@@ -57,7 +57,7 @@ $ python3 Keyloger.py
 
 Then you will see the screen as below :
 
-![keylogger](./etcs/example.gif)
+![keylogger](./etc/example.gif)
 
 
 
