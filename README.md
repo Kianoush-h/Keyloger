@@ -3,6 +3,14 @@
 I created a simple keyloger that saves every 10 keyboard inputs into a txt file.
 
 
+### What is a keylogger used for?
+A keylogger (short for keystroke logger) is software that tracks or logs the keys struck on your keyboard, typically in a covert manner so that you don't know that your actions are being monitored.
+
+### Can a keylogger be detected?
+Detecting keyloggers can range from being very easy to very difficult depending upon how and what was installed. Keyloggers can be installed through random infections or through direct access to your device.
+
+
+
 Moreover, please feel free to give us your feedback to share your experience.
 
 Email: haratiank2@gmail.com
@@ -52,6 +60,11 @@ You need to copy and paste the URL, and in a few seconds, the app downloads the 
 ![demo1](./etcs/demo1.JPG)
 ![demo2](./etcs/demo2.JPG)
 
+
+
+## Future
+
+For the next step I will create an anti-keloger to detect keyloggers on a computer,
 
 
 # Contact Me
